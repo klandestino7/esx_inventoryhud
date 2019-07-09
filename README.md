@@ -1,4 +1,4 @@
-##esx_inventoryhud 1.0.0
+## esx_inventoryhud 1.0.0
 
 Inventário Original: https://github.com/Trsak/esx_inventoryhud
 
@@ -48,7 +48,7 @@ end)
 ```
 
 
-**Then just start resource in your server.cfg
+Then just start resource in your server.cfg
 ```
 start esx_inventoryhud
 ```
