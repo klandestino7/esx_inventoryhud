@@ -22,7 +22,7 @@ Inventário HUD para ESX. Você pode abrir ef echar o usando F2. Parte do códig
 * [https://media.discordapp.net/attachments/526437955217391616/591086080921567259/inventari.png](https://media.discordapp.net/attachments/526437955217391616/591086080921567259/inventari.png)
 
 ### INSTALAÇÃO
-- DOWNLOAD https://github.com/Trsak/esx_inventoryhud/archive/master.zip
+- DOWNLOAD https://github.com/klandestino7/esx_inventoryhud/archive/master.zip
 - Extrair e colocar nos resources
 
 ## Installation
