@@ -1,4 +1,4 @@
-#esx_inventoryhud 1.0.0
+##esx_inventoryhud 1.0.0
 
 Inventário Original: https://github.com/Trsak/esx_inventoryhud
 
