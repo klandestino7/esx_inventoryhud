@@ -2,7 +2,7 @@
 
 Inventário Original: https://github.com/Trsak/esx_inventoryhud
 
-Inventário HUD para ESX. Você pode abrir ef echar o usando F2. Parte do código foi tirada de es_extended.
+Inventário HUD para ESX. Você pode abrir e fechar o usando F2. Parte do código foi tirada de es_extended.
 
 ## Requerimentos
 * [es_extended](https://github.com/ESX-Org/es_extended)
@@ -10,11 +10,10 @@ Inventário HUD para ESX. Você pode abrir ef echar o usando F2. Parte do códig
 
 ## Características
 - Arrastar e soltar
-- Using items
 - Usar itens
 - Dar itens
-- Dinheiro incluído
-- Suporte de contas (banco, dinheiro preto, ...)
+- Dinheiro incluso
+- Suporte de contas (banco, dinheiro sujo, ...)
 - Apoio de armas
 - Sistema de Peso por KG
 
